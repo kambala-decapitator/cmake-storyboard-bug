@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.14)
+cmake_minimum_required(VERSION 3.16)
 project(cmake-storyboard-bug LANGUAGES CXX OBJC)
 
 add_executable(${PROJECT_NAME}
