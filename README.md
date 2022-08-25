@@ -1,5 +1,9 @@
 # cmake-storyboard-bug
 
+Has been fixed by https://gitlab.kitware.com/cmake/cmake/-/merge_requests/7562 and will be a part of v3.25.0.
+
+-----
+
 Demonstration of bug with precompiled headers and storyboard in Xcode generator with CMake >= 3.22.0.
 
 ```bash
